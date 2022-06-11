@@ -1,0 +1,48 @@
+E:\C#_2021_2022 in work\MKL_Test\MKL_Test\bin\Debug\net5.0\MKL_Test.exe
+E:\C#_2021_2022 in work\MKL_Test\MKL_Test\bin\Debug\net5.0\MKL_Test.deps.json
+E:\C#_2021_2022 in work\MKL_Test\MKL_Test\bin\Debug\net5.0\MKL_Test.runtimeconfig.json
+E:\C#_2021_2022 in work\MKL_Test\MKL_Test\bin\Debug\net5.0\MKL_Test.runtimeconfig.dev.json
+E:\C#_2021_2022 in work\MKL_Test\MKL_Test\bin\Debug\net5.0\MKL_Test.dll
+E:\C#_2021_2022 in work\MKL_Test\MKL_Test\bin\Debug\net5.0\ref\MKL_Test.dll
+E:\C#_2021_2022 in work\MKL_Test\MKL_Test\bin\Debug\net5.0\MKL_Test.pdb
+E:\C#_2021_2022 in work\MKL_Test\MKL_Test\obj\Debug\net5.0\MKL_Test.csprojAssemblyReference.cache
+E:\C#_2021_2022 in work\MKL_Test\MKL_Test\obj\Debug\net5.0\MKL_Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_2021_2022 in work\MKL_Test\MKL_Test\obj\Debug\net5.0\MKL_Test.AssemblyInfoInputs.cache
+E:\C#_2021_2022 in work\MKL_Test\MKL_Test\obj\Debug\net5.0\MKL_Test.AssemblyInfo.cs
+E:\C#_2021_2022 in work\MKL_Test\MKL_Test\obj\Debug\net5.0\MKL_Test.csproj.CoreCompileInputs.cache
+E:\C#_2021_2022 in work\MKL_Test\MKL_Test\obj\Debug\net5.0\MKL_Test.dll
+E:\C#_2021_2022 in work\MKL_Test\MKL_Test\obj\Debug\net5.0\ref\MKL_Test.dll
+E:\C#_2021_2022 in work\MKL_Test\MKL_Test\obj\Debug\net5.0\MKL_Test.pdb
+E:\C#_2021_2022 in work\MKL_Test\MKL_Test\obj\Debug\net5.0\MKL_Test.genruntimeconfig.cache
+E:\_C#_2021_2022\MKL_Test\MKL_Test\bin\Debug\net5.0\MKL_Test.exe
+E:\_C#_2021_2022\MKL_Test\MKL_Test\bin\Debug\net5.0\MKL_Test.deps.json
+E:\_C#_2021_2022\MKL_Test\MKL_Test\bin\Debug\net5.0\MKL_Test.runtimeconfig.json
+E:\_C#_2021_2022\MKL_Test\MKL_Test\bin\Debug\net5.0\MKL_Test.runtimeconfig.dev.json
+E:\_C#_2021_2022\MKL_Test\MKL_Test\bin\Debug\net5.0\MKL_Test.dll
+E:\_C#_2021_2022\MKL_Test\MKL_Test\bin\Debug\net5.0\ref\MKL_Test.dll
+E:\_C#_2021_2022\MKL_Test\MKL_Test\bin\Debug\net5.0\MKL_Test.pdb
+E:\_C#_2021_2022\MKL_Test\MKL_Test\obj\Debug\net5.0\MKL_Test.csprojAssemblyReference.cache
+E:\_C#_2021_2022\MKL_Test\MKL_Test\obj\Debug\net5.0\MKL_Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\_C#_2021_2022\MKL_Test\MKL_Test\obj\Debug\net5.0\MKL_Test.AssemblyInfoInputs.cache
+E:\_C#_2021_2022\MKL_Test\MKL_Test\obj\Debug\net5.0\MKL_Test.AssemblyInfo.cs
+E:\_C#_2021_2022\MKL_Test\MKL_Test\obj\Debug\net5.0\MKL_Test.csproj.CoreCompileInputs.cache
+E:\_C#_2021_2022\MKL_Test\MKL_Test\obj\Debug\net5.0\MKL_Test.dll
+E:\_C#_2021_2022\MKL_Test\MKL_Test\obj\Debug\net5.0\ref\MKL_Test.dll
+E:\_C#_2021_2022\MKL_Test\MKL_Test\obj\Debug\net5.0\MKL_Test.pdb
+E:\_C#_2021_2022\MKL_Test\MKL_Test\obj\Debug\net5.0\MKL_Test.genruntimeconfig.cache
+C:\Users\78952\Desktop\Програмирование\CSharp\task3\MKL_Test\bin\Debug\net5.0\MKL_Test.exe
+C:\Users\78952\Desktop\Програмирование\CSharp\task3\MKL_Test\bin\Debug\net5.0\MKL_Test.deps.json
+C:\Users\78952\Desktop\Програмирование\CSharp\task3\MKL_Test\bin\Debug\net5.0\MKL_Test.runtimeconfig.json
+C:\Users\78952\Desktop\Програмирование\CSharp\task3\MKL_Test\bin\Debug\net5.0\MKL_Test.runtimeconfig.dev.json
+C:\Users\78952\Desktop\Програмирование\CSharp\task3\MKL_Test\bin\Debug\net5.0\MKL_Test.dll
+C:\Users\78952\Desktop\Програмирование\CSharp\task3\MKL_Test\bin\Debug\net5.0\ref\MKL_Test.dll
+C:\Users\78952\Desktop\Програмирование\CSharp\task3\MKL_Test\bin\Debug\net5.0\MKL_Test.pdb
+C:\Users\78952\Desktop\Програмирование\CSharp\task3\MKL_Test\obj\Debug\net5.0\MKL_Test.csproj.AssemblyReference.cache
+C:\Users\78952\Desktop\Програмирование\CSharp\task3\MKL_Test\obj\Debug\net5.0\MKL_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\78952\Desktop\Програмирование\CSharp\task3\MKL_Test\obj\Debug\net5.0\MKL_Test.AssemblyInfoInputs.cache
+C:\Users\78952\Desktop\Програмирование\CSharp\task3\MKL_Test\obj\Debug\net5.0\MKL_Test.AssemblyInfo.cs
+C:\Users\78952\Desktop\Програмирование\CSharp\task3\MKL_Test\obj\Debug\net5.0\MKL_Test.csproj.CoreCompileInputs.cache
+C:\Users\78952\Desktop\Програмирование\CSharp\task3\MKL_Test\obj\Debug\net5.0\MKL_Test.dll
+C:\Users\78952\Desktop\Програмирование\CSharp\task3\MKL_Test\obj\Debug\net5.0\ref\MKL_Test.dll
+C:\Users\78952\Desktop\Програмирование\CSharp\task3\MKL_Test\obj\Debug\net5.0\MKL_Test.pdb
+C:\Users\78952\Desktop\Програмирование\CSharp\task3\MKL_Test\obj\Debug\net5.0\MKL_Test.genruntimeconfig.cache
